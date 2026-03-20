@@ -6,7 +6,7 @@ A website about a (mock) charity nonprofit for giving water to people in need.
 
 This was the second project for Matthew Fried's Web Development course in Queens College back in Fall 2022.
 
-* This specific project is an enhanced version of the \[first project](https://github.com/alyssarose05/switcheria), with the added feature of Node.js.
+* This specific project is an enhanced version of the [first project](https://github.com/alyssarose05/switcheria), with the added feature of Node.js.
 
 ## Credits
 
